@@ -3,6 +3,7 @@
 - [Krazeelazy (M. Marie)](https://github.com/krazeelazy)
 - [Nelson Walker] (https://github.com/nelsonwalker)
 - [ThomasRainford](https://github.com/ThomasRainford)
+- [Natasha Alexander](https://github.com/natasha1865)
 - [Ayush](https://github.com/ayush7)
 - [Jayita Pramanik](https://github.com/Jayita10)
 - [Benyasca](https://github.com/lbgm2011)
